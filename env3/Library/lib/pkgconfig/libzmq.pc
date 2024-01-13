@@ -1,0 +1,12 @@
+prefix=c:/Users/snehu/OneDrive/Desktop/git_projects/learn_python/env3/Library
+exec_prefix=c:/Users/snehu/OneDrive/Desktop/git_projects/learn_python/env3/Library
+libdir=c:/Users/snehu/OneDrive/Desktop/git_projects/learn_python/env3/Library/lib
+includedir=c:/Users/snehu/OneDrive/Desktop/git_projects/learn_python/env3/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.5
+Libs: -L${libdir} -lzmq
+Libs.private: -lstdc++ 
+Requires.private: 
+Cflags: -I${includedir} 

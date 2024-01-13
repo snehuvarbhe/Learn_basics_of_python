@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "c:/Users/snehu/OneDrive/Desktop/git_projects/learn_python/env3\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}
