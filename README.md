@@ -5,6 +5,8 @@ Welcome to the Python Learning Repository! This repository is designed to provid
 ## Table of Contents
 
 - [Data types](#day1)
+- [Basic_programs](#day2)
+- [Data_analysis_with_pandas](#day3)
 
 ## Introduction
 
